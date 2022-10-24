@@ -1,0 +1,6 @@
+[submodule "nopik_query"]
+	path = nopik_query
+	url = https://github.com/Azreil-OFD/nopik_query.git
+[submodule "nopik_db"]
+	path = nopik_db
+	url = https://github.com/Azreil-OFD/nopik_db.git
